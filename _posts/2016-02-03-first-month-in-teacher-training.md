@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-03T19:37:54.190Z'
-dateModified: '2016-02-03T19:37:37.165Z'
+datePublished: '2016-02-05T20:58:37.708Z'
+dateModified: '2016-02-03T19:42:10.796Z'
 title: First month in Teacher Training
 author: []
 authors: []
