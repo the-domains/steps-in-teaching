@@ -1,6 +1,6 @@
 name: Steps in teaching
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.79701
 typography_spectrum: 0.68426
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#ffffff'
     - '#c0bfbb'
     - '#3c3837'
-  brandStrength: 0.9612820781767368
+  brandStrength: 0.75
   lightness: 0.5378317323047668
   saturation: 0.9723645604681224
   rhythmicContrast: 0.9211377284955233
