@@ -1,28 +1,40 @@
-name: Steps in teaching
-favicon: null
 layout_spectrum: 0.19046
-typography_spectrum: 0.68426
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#8e8d8b'
-    - '#ffffff'
-    - '#c0bfbb'
-    - '#3c3837'
-  brandStrength: 0.75
-  lightness: 0.5378317323047668
-  saturation: 0.8125
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8125
+  brandStrength: 0.75
+  lightness: 0.7731829
+  brandColors:
+    - '#D3E5ED'
+    - '#040F0D'
+    - '#7EA3DF'
+    - '#5E6300'
+    - '#006EBE'
+  rhythmicContrast: 0.7713032
+typography_spectrum: 0.68426
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Steps in teaching
